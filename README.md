@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Abhiujan Baral:
 Passionate Computer Engineering student building intelligent systems with<br>Machine Learning, NLP, Data Science, and DSA (Python).<br>I love turning ideas into clean, meaningful, real-world projects.<br><br>🚀 What I Do<br>🤖 Machine Learning & NLP<br>🌐 Full-Stack (Django , React)<br>📊 Data Analysis (NumPy, Pandas, Matplotlib)
 
 
